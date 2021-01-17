@@ -51,7 +51,7 @@ Common Functions , Views, or Files:
 
 ## Transport
 
-Most security concerned sites will enable HTTPs. It’s your job to ensure they’ve done it *EVERYWHERE*. Most of the time they miss something.
+Most security concerned sites will enable HTTPS. It’s your job to ensure they’ve done it *EVERYWHERE*. Most of the time they miss something.
 
 Examples:
 - Sensitive images transported over HTTP
